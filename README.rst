@@ -44,14 +44,14 @@ Usage
 
 .. image:: images/tenk_IS.png
 
-
 Functions
 ---------
 
-* tenk_links
-* tenk_IS
-* tenq_links
-* tenq_IS
+* stock(*ticker*)
+* tenk_links(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
+* tenk_IS(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
+* tenq_links(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
+* tenq_IS(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
 
 License
 -------
