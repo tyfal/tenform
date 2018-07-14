@@ -44,10 +44,14 @@ Usage
 
 .. image:: images/tenk_IS.png
 
+Class
+-----
+
+* stock(*ticker*)
+
 Functions
 ---------
 
-* stock(*ticker*)
 * tenk_links(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
 * tenk_IS(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
 * tenq_links(*start_date='YYYY-MM-DD', end_date='YYYY-MM-DD'*)
