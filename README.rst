@@ -14,7 +14,7 @@ tenform
         :alt: Documentation Status
 
 
-Python package that utilizes requests and regex to make digging through the SEC database eand analyzing 10 forms easy.
+Python package that utilizes requests and regex to make digging through the SEC database and analyzing 10 forms easy.
 
 
 Usage
